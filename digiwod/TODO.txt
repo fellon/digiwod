@@ -1,0 +1,17 @@
+TODO list for DiGi-WOD Ver: 1.0
+This is a list of features I would like to include in the initial release of this software.
+
+Finish the create a mage template. cc_mage.php
+Finish the create a mortal template. cc_mortal.php
+Finish the create a changeling template. cc_changeling.php
+Recreate the editor to be dynamic based on the venue value.
+Add in general values to all of the templates. (banality, ...)
+Automaticly apply the experience points for logins. Base it on 24 hours .5 if they login.
+Place a Your character: <name> has X exp. Was last played on <date>
+Add creation time stamps to player files.
+Add st edit history to cfiles.
+Add equipment, equipment hidden to editor.
+Add some more group dependant features. Such as promoting players to higher groups.
+Add icon change support....   Pretty easy...  Just set up drop down list with values = icon numbers.
+Create Dice Roller sub component.
+Make character viewer dynamic.
